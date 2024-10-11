@@ -15,10 +15,14 @@ O Inverted World é um projeto inspirado na série Stranger Things, desenvolvido
 - JavaScript: Para funcionalidade interativa, como troca de temas e controle de áudio.
 
 #### 💫 Como Usar 
-Pode acessar diretamente pelo link do [GitHub Pages](https://github.com/michelenmedeiros/Stranger-Things-UpsideDown/deployments/github-pages) 
+Pode acessar diretamente pelo link do [GitHub Pages](https://michelenmedeiros.github.io/Stranger-Things-InvertedWorld/)
 
 OU
 
 Clone este repositório: git clone https://github.com/seu-usuario/inverted-world.git - Abra o arquivo index.html no navegador.
 
-Explore os diferentes modos de visualização, escute as músicas temáticas e inscreva-se no clube de Dungeons & Dragons.
+#### Explore os diferentes modos de visualização, escute as músicas temáticas e inscreva-se no clube de Dungeons & Dragons.
+
+![image](https://github.com/user-attachments/assets/0344f136-6512-4422-b769-ed3d077f6d2e) ![image](https://github.com/user-attachments/assets/ed823b27-b869-4c11-a5c6-af8e13f017b6)
+
+
