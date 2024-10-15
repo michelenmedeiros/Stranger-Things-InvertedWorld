@@ -19,7 +19,7 @@ Pode acessar diretamente pelo link do [GitHub Pages](https://michelenmedeiros.gi
 
 OU
 
-Clone este repositório: git clone https://github.com/seu-usuario/inverted-world.git - Abra o arquivo index.html no navegador.
+Clone este repositório para sua máquina local, e abra o arquivo index.html em seu navegador web.
 
 #### Explore os diferentes modos de visualização, escute as músicas temáticas e inscreva-se no clube de Dungeons & Dragons.
 
